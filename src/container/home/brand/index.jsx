@@ -17,49 +17,6 @@ const BrandArea = ({ data }) => {
                                     }}
                                 />
                             )}
-                            <Swiper
-                                layout={{
-                                    nav: "brand-navigation",
-                                    dots: "brand-dots-style",
-                                }}
-                                navigation={{
-                                    nextEl: ".brand-slider-button-next",
-                                    prevEl: ".brand-slider-button-prev",
-                                }}
-                                slidesPerView={5}
-                                spaceBetween={0}
-                                breakpoints={{
-                                    320: {
-                                        slidesPerView: 2,
-                                    },
-                                    480: {
-                                        slidesPerView: 3,
-                                    },
-                                    768: {
-                                        slidesPerView: 4,
-                                    },
-                                    992: {
-                                        slidesPerView: 5,
-                                    },
-                                }}
-                            >
-                                {data?.items &&
-                                    data?.items?.map((item, i) => {
-                                        return (
-                                            <SwiperSlide key={i}>
-                                                <SingleBrand
-                                                    brnadAffterImage={
-                                                        item.images?.[0].src
-                                                    }
-                                                    brnadBeforeImage={
-                                                        item.images?.[1].src
-                                                    }
-                                                    alt={item.images?.[0].alt}
-                                                />
-                                            </SwiperSlide>
-                                        );
-                                    })}
-                            </Swiper>
                         </BrandBox>
                     </Col>
                 </Row>

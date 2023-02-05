@@ -50,7 +50,10 @@ const Hero = ({ data }) => {
                     <Col lg={5} xl={6}>
                         <HeroContent>
                             {data?.headings?.[0] && (
-                                <Title>{data.headings[0].content}</Title>
+                                <Title>
+                                    {data.headings[0].content}
+                                    <span>AMR Media</span>
+                                </Title>
                             )}
                             {data?.texts?.[0] && (
                                 <DecText>
@@ -58,7 +61,7 @@ const Hero = ({ data }) => {
                                     {data.texts[0].content}
                                 </DecText>
                             )}
-                            <Form action="#">
+                            {/* <Form action="#">
                                 <Input
                                     className="form-box"
                                     type="text"
@@ -73,7 +76,7 @@ const Hero = ({ data }) => {
                                             </Button>
                                         )
                                     )}
-                            </Form>
+                            </Form> */}
                             {data?.images?.[4]?.src && (
                                 <GatsbyImage
                                     className="hero-image-four"

@@ -8,7 +8,7 @@ const LogoWhite = ({ logo, classCName }) => {
         <LogoImg>
             <Link to="/">
                 <StaticImage
-                    src="../../data/images/logo/logo-white.png"
+                    src="../../data/images/logo/amr-media.png"
                     alt="Pringo Logo Image"
                     title="Logo"
                 />

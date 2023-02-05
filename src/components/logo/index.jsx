@@ -8,7 +8,7 @@ const Logo = ({ logo, classCName }) => {
         <LogoImg>
             <Link to="/">
                 <StaticImage
-                    src="../../data/images/logo/logo.png"
+                    src="../../data/images/logo/amr-top.png"
                     alt="Pringo Logo Image"
                     title="Logo"
                 />

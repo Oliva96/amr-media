@@ -10,28 +10,26 @@ const AboutMoreArea = ({ data }) => {
         <AboutUsSection>
             <Container>
                 <Row className="gx-5">
-                    <Col lg={4}>
-                        <AboutThumb>
+                    <Col lg={1}>
+                        {/* <AboutThumb>
                             <GatsbyImage
                                 image={getImage(data?.images?.[0].src)}
                                 alt={data?.images?.[0].alt}
                             />
-                        </AboutThumb>
+                        </AboutThumb> */}
                     </Col>
-                    <Col lg={5}>
+                    <Col lg={9}>
                         {data?.items &&
                             data?.items.map((item) => (
                                 <AboutUSCard
                                     key={item.id}
-                                    subTitle={item.headings[0].content}
+                                    // subTitle={item.headings[0].content}
                                     title={item.headings[1].content}
                                     description={item.description}
                                 />
                             ))}
                     </Col>
-                    <Col lg={3}>
-                        <AboutUsBanner />
-                    </Col>
+                    <Col lg={2}>{/* <AboutUsBanner /> */}</Col>
                 </Row>
             </Container>
         </AboutUsSection>

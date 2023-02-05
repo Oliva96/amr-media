@@ -12,7 +12,7 @@ export const ServicesDetailsArea = styled.section`
         padding: 120px 0;
     }
     p {
-        font-size: 14px;
+        font-size: 20px;
         margin-top: 20px;
     }
 `;

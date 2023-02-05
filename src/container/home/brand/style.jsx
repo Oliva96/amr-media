@@ -8,7 +8,7 @@ export const BrandTitle = styled.h6`
     span {
         font-weight: 900;
         line-height: 2.428;
-        font-size: 35px;
+        font-size: 20px;
         background: ${themeGet("colors.gradient")};
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -18,12 +18,12 @@ export const BrandTitle = styled.h6`
 export const BrandBox = styled.div`
     background-color: #02126a;
     background-image: url(${BrandBg});
-    padding: 50px 20px 70px;
+    padding: 50px 20px 30px;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 35px;
     ${device.large} {
-        padding: 65px 90px 90px;
+        padding: 50px 90px 30px;
     }
 `;

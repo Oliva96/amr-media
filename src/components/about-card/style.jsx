@@ -2,11 +2,8 @@ import styled from "@theme/utils";
 export const AboutCard = styled.div`
     background-color: #f7faff;
     padding: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     border-radius: 15px;
-    &:last-of-type {
-        margin-bottom: 0;
-    }
 `;
 export const SubTitle = styled.h6`
     font-weight: 700;
@@ -22,4 +19,7 @@ export const Title = styled.h4`
     color: #02126a;
     margin-bottom: 20px;
 `;
-export const DesText = styled.p``;
+export const DesText = styled.p`
+    font-weight: 500;
+    font-size: 20px;
+`;

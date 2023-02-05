@@ -21,7 +21,7 @@
                             "content": "Phone"
                         },
                         {
-                            "content": "(+88) 123 456 789"
+                            "content": "(813) 585-3743"
                         }
                     ]
                 },
@@ -33,19 +33,7 @@
                             "content": "Email"
                         },
                         {
-                            "content": "seollyinfo@gmail.com"
-                        }
-                    ]
-                },
-                {
-                    "id": "Address",
-                    "icon": "icofont-map-pins",
-                    "headings": [
-                        {
-                            "content": "Address"
-                        },
-                        {
-                            "content": "Chilton, Texas(TX, 766)"
+                            "content": "alejandro@amrmediagroup.com"
                         }
                     ]
                 }

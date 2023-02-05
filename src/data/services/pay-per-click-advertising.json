@@ -1,7 +1,7 @@
 {
     "id": "pay-per-click-advertising",
-    "title": "Pay Per Click Advertising",
-    "excerpt": "Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.",
+    "title": "PAID ADVERTISING",
+    "excerpt": "The Absolute strongest way to market youre business. We only focus on facebook and google advertisement...",
     "className": "actionThree",
     "outlineColor": "outlineSecondary",
     "is_featured": true,
@@ -23,37 +23,26 @@
             "items": [
                 {
                     "id": "layout-one-pera-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                    "desc": "- Ad account audit"
                 },
                 {
                     "id": "layout-one-pera-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release."
-                }
-            ]
-        },
-        {
-            "id": "layout-two-section",
-            "section": "layout-two-section",
-            "headings": [
-                {
-                    "level": "h3",
-                    "content": "Case Description"
-                }
-            ],
-            "items": [
-                {
-                    "id": "layout-two-section-1",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchae nged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+                    "desc": "- Ads creation"
                 },
                 {
-                    "id": "layout-two-section-2",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries."
+                    "id": "layout-one-pera-3",
+                    "desc": "- Campaign Setup"
                 },
                 {
-                    "id": "layout-two-section-3",
-                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchae nged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and Aldus PageMaker including versions of Lorem Ipsum."
+                    "id": "layout-one-pera-4",
+                    "desc": "- Keyword Research & Optimization"
+                },
+                {
+                    "id": "layout-one-pera-5",
+                    "desc": "Get more SALES!"
                 }
             ]
         }
     ]
 }
+ 

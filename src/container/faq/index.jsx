@@ -8,7 +8,7 @@ const FAQArea = ({ data }) => {
         <FaqSection>
             <Container>
                 <Row>
-                    <Col lg={8}>
+                    <Col lg={11}>
                         <FaqContentBox>
                             <Accordion defaultActiveKey="1">
                                 {data?.items &&
@@ -25,9 +25,9 @@ const FAQArea = ({ data }) => {
                             </Accordion>
                         </FaqContentBox>
                     </Col>
-                    <Col lg={4}>
+                    {/* <Col lg={4}>
                         <Categories />
-                    </Col>
+                    </Col> */}
                 </Row>
             </Container>
         </FaqSection>

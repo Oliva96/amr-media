@@ -46,7 +46,7 @@
             "headings": [
                 {
                     "level": "h1",
-                    "content": "Top Ranking Your Brand New Website"
+                    "content": "Top Ranking Your Brand with "
                 }
             ],
             "texts": [
@@ -70,7 +70,7 @@
             "headings": [
                 {
                     "level": "h6",
-                    "content": "Trusted by <span>8,980+</span> of The World's Best Organization."
+                    "content": "<span> Businesses around the world are competing to consumers attention, making it increasingly difficult to market and grow other aspects of your business at the same time. Here at AMR Media we weaponize our great strategies and put them to work for your business, helping you fly past your competitors.</span>"
                 }
             ],
             "items": [
@@ -243,13 +243,13 @@
             "section_title": {
                 "showShortDec": true,
                 "showSubTitle": true,
-                "subtitle": "// WHAY CHOOSE US?",
+                "subtitle": "// WHY CHOOSE US?",
                 "title": "We Are Trusted Digital Marketing Company.",
                 "icon": {
                     "src": "../../data/images/icons/pencile.png",
                     "alt": "Working Process"
                 },
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                "description": "We are researchers, advertisers, analysts, & consultants who are able to exactly pin point weak points in strategies and refine them to achieve the most amount eyes and dollars for your business.",
                 "dividerBg": "secondary"
             },
             "items": [
@@ -266,7 +266,7 @@
                             "content": "High Customer Retention Rate"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "Creating a perfect offer for your leads is crucial to get them through your doors and keeping them there."
                 },
                 {
                     "id": "choose-us-2",
@@ -281,7 +281,7 @@
                             "content": "Dedicated Customer Support"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "We offer Bi-weekly or weekly calls presenting the progress made with our campaigns, showing you constant results."
                 },
                 {
                     "id": "choose-us-3",
@@ -296,7 +296,7 @@
                             "content": "Professional Team Member"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "We have a team specializing in all aspects ranging from photography, web design, google advertising, Facebook advertising."
                 }
             ]
         },
@@ -494,40 +494,40 @@
                     "headings": [
                         {
                             "level": "h5",
-                            "content": "How can I start SEO Marketing?"
+                            "content": "HOW FAST WILL I SEE MY RESULTS?"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                    "description": "Once we are given access to all ad and media accounts we will start campaigns immediately. By constantly monitoring how the ads and posts are doing we can give you a consisted flow of feedback."
                 },
                 {
                     "id": "faq-2",
                     "headings": [
                         {
                             "level": "h5",
-                            "content": "Dedicated Customer Support"
+                            "content": "HOW OFTEN WILL DISCUSSIONS TAKE PLACE?"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                    "description": "We take pride in the fact that we have weekly meetings with our partners compared to other agencies that rarely speak to their clients. We are available to discuss any questions or concerns around the clock making sure you feel that your business is being taken care of properly."
                 },
                 {
                     "id": "faq-3",
                     "headings": [
                         {
                             "level": "h5",
-                            "content": "Professional Team Member Works"
+                            "content": "HOW CAN I BE GUARANTEED ROI?"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "Our agency has a full money back guarantee in the agreement, stating specific but simple requirements to qualify for a full refund. Simply if  we do our part and you do yours and aren’t 100% satisfied we WILL give you every single penny back."
                 },
                 {
                     "id": "faq-4",
                     "headings": [
                         {
                             "level": "h5",
-                            "content": "Professional Team Member Works"
+                            "content": "WHY SHOULD I CHOOSE YOUR AGENCY AND NOT OTHERS?"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "Our passion in this industry is unmatched, We will be their every step of the way working together, figuring out what are the best ways to bring you leads. We have so much confidence in what we can provide, that if at any time you aren’t happy you can request a refund."
                 }
             ]
         },

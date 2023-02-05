@@ -45,9 +45,9 @@ const Header = ({ data }) => {
                                 }}
                                 size="large"
                                 shape="rounded10"
-                                path="/"
+                                path="/contact-us"
                             >
-                                Analyze Your Site
+                                Contact Us
                                 <i className="icofont-arrow-right"></i>
                             </Button>
                             <MobileMenuBtn

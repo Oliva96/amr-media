@@ -39,7 +39,7 @@ const Footer = ({ data }) => {
                     <HeartIcon />
                 </div>
                 <Container>
-                    <NewsletterWidget />
+                    {/* <NewsletterWidget /> */}
                     <FooterRow>
                         <FooterCol>
                             <FooterWidget>
@@ -53,13 +53,13 @@ const Footer = ({ data }) => {
                                 />
                             </FooterWidget>
                         </FooterCol>
-                        <FooterCol>
+                        {/* <FooterCol>
                             <FooterWidget>
                                 <InformationMenuWidget
                                     informationData={data.footer[2]}
                                 />
                             </FooterWidget>
-                        </FooterCol>
+                        </FooterCol> */}
                         <FooterCol>
                             <FooterWidget>
                                 <FollowUsWidget followData={data.footer[3]} />
@@ -72,16 +72,8 @@ const Footer = ({ data }) => {
             <FooterBottom>
                 <Container sx={{ textAlign: "center" }}>
                     <CopyrightText>
-                        Copyright &copy; {new Date().getFullYear()} Made with{" "}
-                        <i className="icofont-heart"></i> by{" "}
-                        <a
-                            href={data.footer[4].link}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            {data.footer[4].title}
-                        </a>{" "}
-                        All Rights Reserved
+                        Copyright &copy; {new Date().getFullYear()} All Rights
+                        Reserved
                     </CopyrightText>
                 </Container>
             </FooterBottom>

@@ -20,13 +20,13 @@ export const HeroSection = styled.section`
     border-top: 1px solid #f0f0f0;
     z-index: 0;
     ${device.large} {
-        margin-bottom: 80px;
+        margin-bottom: 180px;
     }
     ${device.xlarge} {
-        margin-bottom: 150px;
+        margin-bottom: 250px;
     }
     ${device.xxlarge} {
-        margin-bottom: 250px;
+        margin-bottom: 350px;
     }
     img {
         max-width: 100%;
@@ -209,6 +209,9 @@ export const HeroContent = styled.div`
 `;
 export const Title = styled.h1`
     font-weight: 900;
+    span {
+        color: orange;
+    }
 `;
 export const Form = styled.form`
     max-width: 470px;
@@ -236,7 +239,7 @@ export const Input = styled.input`
 export const DecText = styled.p`
     color: #5c6179;
     line-height: 1.473;
-    font-size: 19px;
+    font-size: 20px;
     position: relative;
     padding-left: 0px;
     margin-top: 30px;

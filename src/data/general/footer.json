@@ -7,21 +7,15 @@
             "list": [
                 {
                     "id": "footer-list-11",
-                    "text": "(+88) 454 632 897",
+                    "text": "(813) 585-3743",
                     "link": "tel:0123456789",
                     "icon": "icofont-ui-call"
                 },
                 {
                     "id": "footer-list-12",
-                    "text": "demo@gmail.com",
-                    "link": "mailto:demo@gmail.com",
+                    "text": "alejandro@amrmediagroup.com",
+                    "link": "mailto:alejandro@amrmediagroup.com",
                     "icon": "icofont-send-mail"
-                },
-                {
-                    "id": "footer-list-13",
-                    "text": "Chilton, Texas(TX), 76632",
-                    "link": "/",
-                    "icon": "icofont-google-map"
                 }
             ]
         },
@@ -31,28 +25,18 @@
             "list": [
                 {
                     "id": "footer-list-21",
-                    "text": "Blog Grid Post",
-                    "link": "/blog-grid"
+                    "text": "Social Media Management",
+                    "link": "/services/social-media-management"
                 },
                 {
                     "id": "footer-list-22",
-                    "text": "SEO Optimization",
-                    "link": "/blog-grid"
+                    "text": "Paid Advertising",
+                    "link": "/services/paid-advertising"
                 },
                 {
                     "id": "footer-list-23",
-                    "text": "Content Marketing",
-                    "link": "/blog-grid"
-                },
-                {
-                    "id": "footer-list-24",
-                    "text": "Social Marketing",
-                    "link": "/blog-grid"
-                },
-                {
-                    "id": "footer-list-25",
-                    "text": "Web Analytics",
-                    "link": "/blog-grid"
+                    "text": "Pandora's Box",
+                    "link": "/services/pandoras-box"
                 }
             ]
         },
@@ -90,24 +74,18 @@
         {
             "id": "footer-4",
             "title": "Follow Us",
-            "text": "Lorem Ipsum is simply dummy text the printing and typesetting.",
+            "text": "Keep up to date on our latest works and new services.",
             "socials": [
                 {
                     "id": 1,
                     "icon": "icofont-facebook",
-                    "link": "https://www.facebook.com",
+                    "link": "https://www.facebook.com/profile.php?id=100089015498164&mibextid=LQQJ4d",
                     "title": "Facebook"
                 },
                 {
                     "id": 2,
-                    "icon": "icofont-twitter",
-                    "link": "https://www.twitter.com",
-                    "title": "Twitter"
-                },
-                {
-                    "id": 3,
-                    "icon": "icofont-skype",
-                    "link": "https://www.skpe.com",
+                    "icon": "icofont-instagram",
+                    "link": "https://www.instagram.com/amr.media.group/",
                     "title": "Instagram"
                 }
             ]

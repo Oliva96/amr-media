@@ -1,20 +1,20 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
-    title: "Pringo",
-    titleTemplate: "Digital Marketing React Gatsby Template",
+    title: "AMR Media",
+    titleTemplate: "AMR Media",
     description: "React Gatsby",
-    author: "pringo",
-    twitterUsername: "@pringo",
+    author: "amrmediagroup",
+    twitterUsername: "@amrmediagroup",
     keywords: [
         "bootstrap",
         "html",
         "react",
         "gatsby",
-        "Pringo",
+        "amrmediagroup",
         "Digital Marketing",
     ],
     image: "",
-    siteUrl: "https://pringo.com",
+    siteUrl: "https://amrmediagroup.com",
     pathPrefix: "/",
     localUrl: "http://localhost:8000",
     canonical: "",
@@ -25,7 +25,7 @@ module.exports = {
     },
     siteLanguage: "en",
     favicon: "src/assets/images/favicon.png", // Used for manifest favicon generation
-    shortName: "Pringo", // shortname for manifest. *Must* be shorter than 12 characters
+    shortName: "AMR Media", // shortname for manifest. *Must* be shorter than 12 characters
     themeColor: "#5E60E7",
     backgroundColor: "#fff",
 };
